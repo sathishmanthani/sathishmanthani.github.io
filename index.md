@@ -47,5 +47,4 @@ Customers are the most valuable assets of any business. Retaining customers has 
 [Github Code](https://github.com/sathishmanthani/customer-churn-in-banking)
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
