@@ -14,7 +14,7 @@ I used machine learning algorithms like Decision trees, Random forests, Gradient
 [Github Code](/predict-sp500-index)
 
 ---
-[NYC Airbnb Data Analysis](/airbnb-data-analysis/docs/airbnb-price-analysis.html)
+[NYC Airbnb Data Analysis](/airbnb-data-analysis/blob/main/docs/airbnb-price-analysis.html)
 
 Airbnb offers lodging, primarily homestays and tourism experiences. Just like Uber, the company does not own any of the real estate nor does it host any events. 
 It acts as a middleman between the customer and the owner providing the accommodation and Airbnb receives commission from each booking.
