@@ -1,4 +1,4 @@
-## Sathish Manthani's Portfolio
+## Portfolio
 
 ---
 
