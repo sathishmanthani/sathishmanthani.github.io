@@ -14,13 +14,15 @@ I used machine learning algorithms like Decision trees, Random forests, Gradient
 [Github Code](/predict-sp500-index)
 
 ---
-[NYC Airbnb Data Analysis](/airbnb-data-analysis/blob/main/docs/airbnb-price-analysis.html)
+[NYC Airbnb Data Analysis](/airbnb-data-analysis)
 
 Airbnb offers lodging, primarily homestays and tourism experiences. Just like Uber, the company does not own any of the real estate nor does it host any events. 
 It acts as a middleman between the customer and the owner providing the accommodation and Airbnb receives commission from each booking.
 Problem statement is to explore Airbnb cost in different areas of New York. What are the variables influencing the price of Airbnb stay. <br>
 
 <img src="images/airbnb.jpg?raw=true"/> <br>
+ <br>
+[Github Code](/airbnb-data-analysis/code)
 
 ---
 [Project 3 Title](http://example.com/)
