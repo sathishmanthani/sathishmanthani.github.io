@@ -25,7 +25,7 @@ Problem statement is to explore Airbnb cost in different areas of New York. What
 [Github Code](/airbnb-data-analysis/code)
 
 ---
-[OpenWeatherForecast API](/weatherforecastAPI)
+[OpenWeatherForecast API](/weatherforecastAPI/)
 
 This program fetches weather forecast data using OpenWeatherMap APIs.
 It prompts user to enter a city name or zip code and API will be called with these parameters.
@@ -34,7 +34,7 @@ On success, weather forecast data is displayed for next 5 days in 3 hour interva
 
 <img src="images/weather.png?raw=true"/> <br>
  <br>
-[Github Code](/weatherforecastAPI)
+[Github Code](/weatherforecastAPI/)
 
 
 ---
