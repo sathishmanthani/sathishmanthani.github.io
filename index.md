@@ -14,7 +14,7 @@ I used machine learning algorithms like Decision trees, Random forests, Gradient
 [Github Code](/predict-sp500-index)
 
 ---
-[NYC Airbnb Data Analysis](/airbnb-data-analysis)
+[NYC Airbnb Data Analysis](https://github.com/sathishmanthani/airbnb-data-analysis)
 
 Airbnb offers lodging, primarily homestays and tourism experiences. Just like Uber, the company does not own any of the real estate nor does it host any events. 
 It acts as a middleman between the customer and the owner providing the accommodation and Airbnb receives commission from each booking.
@@ -34,7 +34,7 @@ On success, weather forecast data is displayed for next 5 days in 3 hour interva
 
 <img src="images/weather.png?raw=true"/> <br>
  <br>
-[Github Code](/weatherforecastAPI/)
+[Github Code](https://github.com/sathishmanthani/weatherforecastAPI/)
 
 ---
 
@@ -44,7 +44,7 @@ Customers are the most valuable assets of any business. Retaining customers has 
 
 <img src="images/customer.jpg?raw=true"/> <br>
  <br>
-[Github Code](/customer-churn-in-banking/)
+[Github Code](https://github.com/sathishmanthani/customer-churn-in-banking)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
