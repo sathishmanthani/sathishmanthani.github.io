@@ -22,7 +22,7 @@ Problem statement is to explore Airbnb cost in different areas of New York. What
 
 <img src="images/airbnb.jpg?raw=true"/> <br>
  <br>
-[Github Code](/airbnb-data-analysis/code)
+[Github Code](https://github.com/sathishmanthani/airbnb-data-analysis/)
 
 ---
 [OpenWeatherForecast API](/weatherforecastAPI/)
