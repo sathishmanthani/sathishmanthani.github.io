@@ -2,7 +2,7 @@
 
 ---
 
-[Predicting S&P 500 index price](/predict-sp500-index)
+<b>[Predicting S&P 500 index price](/predict-sp500-index)<b>
 
 Predicting stock prices is a popular usecase for machine learning and predictive analytics.
 S&P 500 (Standard and Poor 500) is the stock market index that measures the stock performance of 500 large companies in the US. <br>
