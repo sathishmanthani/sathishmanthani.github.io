@@ -36,6 +36,15 @@ On success, weather forecast data is displayed for next 5 days in 3 hour interva
  <br>
 [Github Code](/weatherforecastAPI/)
 
+---
+
+[Customer Churn in Banking Industry](/customer-churn-in-banking/)
+
+Customers are the most valuable assets of any business. Retaining customers has become the basic need of the organizations regardless of the industry. This project explores the various steps for predicting customer churn in banking industry using CRISP-DM methodology.<br>
+
+<img src="images/customer.jpg?raw=true"/> <br>
+ <br>
+[Github Code](/customer-churn-in-banking/)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
