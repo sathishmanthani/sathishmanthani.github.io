@@ -25,22 +25,16 @@ Problem statement is to explore Airbnb cost in different areas of New York. What
 [Github Code](/airbnb-data-analysis/code)
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[OpenWeatherForecast API](/weatherforecastAPI)
 
----
+This program fetches weather forecast data using OpenWeatherMap APIs.
+It prompts user to enter a city name or zip code and API will be called with these parameters.
+Error message is displayed the user if connection fails or input parameters are incorrect.
+On success, weather forecast data is displayed for next 5 days in 3 hour intervals. <br>
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
+<img src="images/weather.png?raw=true"/> <br>
+ <br>
+[Github Code](/weatherforecastAPI)
 
 
 ---
