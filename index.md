@@ -2,7 +2,7 @@
 
 ---
 
-[<b>Predicting S&P 500 index price<b>](/predict-sp500-index)
+[Predicting S&P 500 index price](/predict-sp500-index)
 
 Predicting stock prices is a popular usecase for machine learning and predictive analytics.
 S&P 500 (Standard and Poor 500) is the stock market index that measures the stock performance of 500 large companies in the US. <br>
@@ -11,10 +11,10 @@ I used machine learning algorithms like Decision trees, Random forests, Gradient
 `
 <img src="images/stock_market.jpg?raw=true"/>
  <br>
-[<b>Github Code</b>](/predict-sp500-index)
+[Github Code](/predict-sp500-index)
 
 ---
-[<b>NYC Airbnb Data Analysis<b>](/airbnb-data-analysis/docs/airbnb-price-analysis.html)
+[NYC Airbnb Data Analysis](/airbnb-data-analysis/docs/airbnb-price-analysis.html)
 
 Airbnb offers lodging, primarily homestays and tourism experiences. Just like Uber, the company does not own any of the real estate nor does it host any events. 
 It acts as a middleman between the customer and the owner providing the accommodation and Airbnb receives commission from each booking.
