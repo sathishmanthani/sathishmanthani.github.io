@@ -4,13 +4,15 @@
 
 [Predicting S&P 500 index price](/predict-sp500-index)
 
-Predicting stock prices is a popular usecase for machine learning and predictive analytics. 
+Predicting stock prices is a popular usecase for machine learning and predictive analytics. <br>
 S&P 500 (Standard and Poor 500) is the stock market index that measures the stock performance of 500 large companies in the US.
 In this project, I built models to predict the stock prices for it based on the available variables and historical data.
 I used machine learning algorithms like Decision trees, Random forests, Gradient boosting, Neural networks, and Facebook’s prophet in this project.
 
 `
 <img src="images/stock_market.jpg?raw=true"/>
+
+[Github Code](/predict-sp500-index)
 
 ---
 [NYC Airbnb Data Analysis](/airbnb-data-analysis/docs/airbnb-price-analysis.html)
