@@ -57,7 +57,7 @@ This dataset is basically a compiled dataset pulled from four other datasets. Th
 
 [Kaggle data](https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016)
 
-<img src="images/datamining.jpg?raw=true"/> <br>
+<img src="images/datamining.png?raw=true"/> <br>
  <br>
 ### [Github Code](https://github.com/sathishmanthani/suicide-rate-analysis)
 
