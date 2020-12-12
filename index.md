@@ -51,7 +51,6 @@ Customers are the most valuable assets of any business. Retaining customers has 
 
 Suicide Rate Analysis - This analysis is carried out by comparing socio-economic info with suicide rates by year and country.
 
-About the dataset:<br>
 I got the dataset from Kaggle. I gave the link below for reference.
 This dataset is basically a compiled dataset pulled from four other datasets. These 4 datasets are linked by time and place. This dataset is built to find signals correlated to increased suicide rates among different cohorts globally across the socio-economic spectrum.<br>
 
