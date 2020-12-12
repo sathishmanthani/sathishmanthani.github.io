@@ -11,7 +11,7 @@ I used machine learning algorithms like Decision trees, Random forests, Gradient
 `
 <img src="images/stock_market.jpg?raw=true"/>
  <br>
-[Github Code](/predict-sp500-index)
+[Github Code](https://github.com/sathishmanthani/predict-sp500-index)
 
 ---
 [NYC Airbnb Data Analysis](https://github.com/sathishmanthani/airbnb-data-analysis)
