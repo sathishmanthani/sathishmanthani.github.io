@@ -47,4 +47,19 @@ Customers are the most valuable assets of any business. Retaining customers has 
 ### [Github Code](https://github.com/sathishmanthani/customer-churn-in-banking)
 
 ---
+## [Data mining - Suicide Rate Analysis](/suicide-rate-analysis/)
+
+Suicide Rate Analysis - This analysis is carried out by comparing socio-economic info with suicide rates by year and country.
+
+About the dataset:<br>
+I got the dataset from Kaggle. I gave the link below for reference.
+This dataset is basically a compiled dataset pulled from four other datasets. These 4 datasets are linked by time and place. This dataset is built to find signals correlated to increased suicide rates among different cohorts globally across the socio-economic spectrum.<br>
+
+[Kaggle data](https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016)
+
+<img src="images/datamining.jpg?raw=true"/> <br>
+ <br>
+### [Github Code](https://github.com/sathishmanthani/suicide-rate-analysis)
+
+---
 <!-- Remove above link if you don't want to attibute -->
