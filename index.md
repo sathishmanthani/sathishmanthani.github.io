@@ -47,7 +47,7 @@ Customers are the most valuable assets of any business. Retaining customers has 
 ### [Github Code](https://github.com/sathishmanthani/customer-churn-in-banking)
 
 ---
-## [Data mining - Suicide Rate Analysis](/suicide-rate-analysis/)
+## [Suicide Rate Analysis](/suicide-rate-analysis/)
 
 Suicide Rate Analysis - This analysis is carried out by comparing socio-economic info with suicide rates by year and country.
 
@@ -59,6 +59,18 @@ This dataset is basically a compiled dataset pulled from four other datasets. Th
 <img src="images/datamining.png?raw=true"/> <br>
  <br>
 ### [Github Code](https://github.com/sathishmanthani/suicide-rate-analysis)
+
+---
+## [Predict Credit Card Approval](/predict-creditcard-approval/)
+
+Predicting credit card approval is a classical usecase in finance industry. Analyzing the credit card applications data for a handful of applications can be done manually but if credit institutions get a large number of requests then analyzing them manually is not feasible. The applications are going to increase with growing number of digital devices and overall digital transformation across the globe. Credit card companies would need a program to analyze the historical patterns of the data and understand the impacting factors in an application and decide whether to approve the application or not based on the risk score of the applicant.
+
+In this project, I created a machine learning program to read the data for existing approval/rejection patterns of the credit card applications and build a ML algorithm to predict the approval status for future credit card applications. I used predictive analytics and machine learning algorithms like logistic regression to predict whether the application is approved or not.
+
+
+<img src="images/creditcard.png?raw=true"/> <br>
+ <br>
+### [Github Code](https://github.com/sathishmanthani/predict-creditcard-approval)
 
 ---
 <!-- Remove above link if you don't want to attibute -->
