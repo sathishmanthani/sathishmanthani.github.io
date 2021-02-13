@@ -81,7 +81,7 @@ Bike sharing networks are present in cities of all sizes, they allow everyone (i
 In this project, I will be exploring the various features of the bike sharing network and the relationships among them. I would then predict the number of trips from each station. I will split the dataset into two parts, one is training dataset and the other one is testing dataset. I will use the training dataset to build the model. I will use decision tree and other algorithms for modeling. I will use the test dataset to test the accuracy of the target variable and conclude the best model based on the accuracy.
 
 
-<img src="images/bikeshare.png?raw=true"/> <br>
+<img src="images/bikesharing.png?raw=true"/> <br>
  <br>
 ### [Github Code](https://github.com/sathishmanthani/LA-bike-sharing-network)
 
