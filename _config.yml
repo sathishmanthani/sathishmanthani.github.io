@@ -5,7 +5,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   About Me:
   <br>
   I’m working as Lead Data Engineer for MUFG Union Bank, Phoenix AZ. I recently graduated with a Master's degree in Data Science from Bellevue University.
-  <br><br>
   I'm passionate about building data-intensive applications. My interests are finance, investing, leadership and data engineering.
   <br><br>
   Connect with me:
@@ -15,10 +14,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://medium.com/@sathish.manthani"><img src="images/medium.png" width="75" height="75" /></a>  
   <br><br>
   <br><br>
-  <br><br>
-  <br><br>
-  <br><br>
-  <br><br>
-  
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
